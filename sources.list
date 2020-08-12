@@ -1,0 +1,6 @@
+deb http://http.kali.org/kali kali-rolling main non-free contrib
+deb-src http://http.kali.org/kali kali-rolling main non-free contrib
+#only for 1010110v use .....! kali.0rg/kali main non-free contrib
+
+#httsp://github.com/keralahacker/sources.list
+
